@@ -1,0 +1,29 @@
+body{
+    margin: 0
+}
+
+header{
+    background-color:#09d3ac;
+    text-align: center
+}
+
+.logo{
+    color:black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px
+}
+
+header input {
+    font-size: 30px;
+    margin : 20px
+}
+
+.newsitem {
+    padding:20px;
+    box-sizing:border-box;
+    border-bottom: 1px solid grey;
+}
+.title{
+    padding:20px;
+}

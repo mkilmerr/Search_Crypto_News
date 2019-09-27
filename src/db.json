@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"lore lore lore lore lore lore lore",
+        "news":"aaaaaaaaaaaaaaaaaaaaaaaaa",
+        "author":"ipsum ipsum ipsum ipsum ipsum"
+    },
+
+    {
+        "id":2,
+        "title":"lore lore lore lore lore lore lore",
+        "news":"aaaaaaaaaaaaaaaaaaaaaaaaa",
+        "author":"ipsum ipsum ipsum ipsum ipsum"
+    },
+    {
+        "id":3,
+        "title":"lore lore lore lore lore lore lore",
+        "news":"aaaaaaaaaaaaaaaaaaaaaaaaa",
+        "author":"ipsum ipsum ipsum ipsum ipsum"
+    },
+    {
+        "id":4,
+        "title":"lore lore lore lore lore lore lore",
+        "news":"aaaaaaaaaaaaaaaaaaaaaaaaa",
+        "author":"ipsum ipsum ipsum ipsum ipsum"
+    }
+]
